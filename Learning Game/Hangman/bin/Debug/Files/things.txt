@@ -1,0 +1,33 @@
+candle
+magnet
+satchel
+traffic
+cone
+atm
+backpack
+dice
+padlock
+letter
+traffic light
+microscope
+ballon
+briefcase
+shopping cart
+stop sign
+globe
+can
+rucksack
+sword
+street light
+coins
+box
+luggage
+axe
+bolt
+ball
+lighter
+drone
+medal
+snorkel
+chain 
+shield

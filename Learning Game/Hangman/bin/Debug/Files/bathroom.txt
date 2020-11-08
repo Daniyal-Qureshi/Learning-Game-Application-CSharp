@@ -1,0 +1,23 @@
+soap
+toothpaste
+shampoo
+comb
+dental floos
+sink
+toilet
+hairbrush
+toilet paper
+lipstick
+towel
+bath 
+toothbrush
+razor 
+plug
+hole
+shower
+faucet
+hair dryer
+mirror
+hand dryer
+plug
+nail clippers

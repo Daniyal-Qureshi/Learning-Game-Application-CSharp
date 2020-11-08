@@ -1,0 +1,22 @@
+bedroom
+park
+office
+pool
+corridor
+living room
+library
+classroom
+supermarket
+playground
+bathroom
+store
+restaurant
+shopping center
+study
+kitchen
+cafe
+hair salon
+gym 
+stairs
+garden
+beach

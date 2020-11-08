@@ -1,0 +1,33 @@
+cup
+spoon
+coffee
+machine
+corkscrew
+bowl
+frying pan
+toaster
+wine glass
+mixer 
+glass
+jug
+microwave
+dishcloth
+grater
+knife
+saucepan
+teapot
+paper towels
+cleave
+fork
+chopsticks
+tea
+towel
+bottle
+opener
+chopping board
+plate
+bottle
+tray 
+spatula
+peeler
+can opener

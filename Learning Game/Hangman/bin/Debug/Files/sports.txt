@@ -1,0 +1,32 @@
+soccer
+cycling
+weightlifting
+wrestling
+diving
+basketball
+baseball
+American football
+hockey
+bowling
+swimming
+pool
+chess
+cricket
+archery
+boxing
+volleyball
+skateboarding
+golf
+javelin
+tennis
+running
+skiing
+horse riding
+high jump
+table tennis
+karate
+badminton
+surfing
+darts
+rugby
+long jump

@@ -1,0 +1,28 @@
+apartment block
+bridge
+movie theater
+garage
+pet store
+hospital
+skyscrapers
+gas station
+construction site
+church
+castle
+airport
+tunnel
+convenience store
+florist
+stadium
+factory
+windmill
+zoo 
+car park
+house
+statue
+train station
+lighthouse
+tent
+road
+billboard
+school

@@ -1,0 +1,34 @@
+E:\Hangman\Hangman\obj\Debug\LearningGame.csproj.GenerateResource.cache
+E:\Hangman\Hangman\obj\Debug\LearningGame.csprojAssemblyReference.cache
+E:\Hangman\Hangman\bin\Debug\LearningGame.exe.config
+E:\Hangman\Hangman\bin\Debug\LearningGame.exe
+E:\Hangman\Hangman\bin\Debug\LearningGame.pdb
+E:\Hangman\Hangman\obj\Debug\LearningGame.exe
+E:\Hangman\Hangman\obj\Debug\LearningGame.pdb
+E:\Hangman\Hangman\obj\Debug\LearningGame.GameHomepage.resources
+E:\Hangman\Hangman\obj\Debug\LearningGame.category.resources
+E:\Hangman\Hangman\obj\Debug\LearningGame.help.resources
+E:\Hangman\Hangman\obj\Debug\LearningGame.Result.resources
+E:\Hangman\Hangman\obj\Debug\LearningGame.Selection.resources
+E:\Hangman\Hangman\obj\Debug\LearningGame.Properties.Resources.resources
+E:\Hangman\Hangman\obj\Debug\LearningGame.WinnerDatabase.resources
+E:\Hangman\Hangman\obj\Debug\LearningGame.ScrambleResult.resources
+E:\Hangman\Hangman\obj\Debug\LearningGame.ScramblewordGame.resources
+E:\Hangman\Hangman\obj\Debug\LearningGame.Homepage.resources
+E:\Learning Game\bin\Debug\LearningGame.exe.config
+E:\Learning Game\bin\Debug\LearningGame.exe
+E:\Learning Game\bin\Debug\LearningGame.pdb
+E:\Learning Game\obj\Debug\LearningGame.csprojAssemblyReference.cache
+E:\Learning Game\obj\Debug\LearningGame.GameHomepage.resources
+E:\Learning Game\obj\Debug\LearningGame.category.resources
+E:\Learning Game\obj\Debug\LearningGame.help.resources
+E:\Learning Game\obj\Debug\LearningGame.Result.resources
+E:\Learning Game\obj\Debug\LearningGame.Selection.resources
+E:\Learning Game\obj\Debug\LearningGame.Homepage.resources
+E:\Learning Game\obj\Debug\LearningGame.Properties.Resources.resources
+E:\Learning Game\obj\Debug\LearningGame.WinnerDatabase.resources
+E:\Learning Game\obj\Debug\LearningGame.ScrambleResult.resources
+E:\Learning Game\obj\Debug\LearningGame.ScramblewordGame.resources
+E:\Learning Game\obj\Debug\LearningGame.csproj.GenerateResource.cache
+E:\Learning Game\obj\Debug\LearningGame.exe
+E:\Learning Game\obj\Debug\LearningGame.pdb

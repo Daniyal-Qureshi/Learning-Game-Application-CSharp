@@ -1,0 +1,33 @@
+pen
+ruler
+paper
+clips
+stapler
+marker
+pencil
+tape
+notepad
+clipboard
+fountain pen
+pencil case
+calculator
+folder
+paintbrush
+sharpener
+scissor
+crayons
+blackboard
+paper
+pins
+flip chart
+whiteboard
+eraser
+envelope
+
+
+
+
+
+
+
+

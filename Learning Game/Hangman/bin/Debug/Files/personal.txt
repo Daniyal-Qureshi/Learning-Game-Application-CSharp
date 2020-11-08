@@ -1,0 +1,29 @@
+bag
+purse
+wallet
+suitcase
+zip
+watch
+keys
+money
+headphones
+gift
+glasses
+ID card
+flashlight
+newspaper
+button
+laptop
+pen
+book
+tissues
+kite
+phone
+credit card
+mug
+whistle
+straw 
+ticket
+basket
+cards
+flower

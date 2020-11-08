@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="hangmancontext">
+  <DataContextMoniker Name="/hangmancontextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b199a2a0-703e-4a2a-a83b-77ba37bfd502" absoluteBounds="4.75, 3.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/hangmancontextDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3d42f750-c0eb-45e8-ae61-f189ccfceb3e" absoluteBounds="4.765, 3.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

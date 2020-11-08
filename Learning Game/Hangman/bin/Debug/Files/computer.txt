@@ -1,0 +1,22 @@
+mouse
+microphone
+battery
+calculator
+socket
+controller
+monitor
+printer
+line
+switch
+laptop
+keyboard
+speakers
+disc
+light bulb
+tablet
+phone
+plug
+headset
+camera
+usb stick
+satellite dish

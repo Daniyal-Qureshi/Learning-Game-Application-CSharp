@@ -1,0 +1,33 @@
+cleaner
+builder
+engineer
+plumber
+decorator
+dentist
+fashion designer
+vet
+security guard
+tutor
+chef
+surgeon
+shop assistant
+photographer
+masseuse
+singer
+pharmacist
+tour guide
+florist
+gardener
+fisherman
+soldier
+illustrator
+barman
+clown
+truck driver
+deliveryman
+chauffeur
+director
+
+
+
+
